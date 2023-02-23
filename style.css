@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+}
+body{
+    background-color:bisque ;
+}
+.jslesson{
+    width: 1000px;
+    height: 500px;
+    background-image: url(./images/js.png);
+    margin-left: 450px;
+    background-size: 100%;
+}

@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color:chartreuse ;
+}
+body{
+    background-color: black;
+}
+p{
+    color: chartreuse;
+    text-align: center;
+}
+.exampleimage{
+    margin-left: 730px;
+    padding: 1px;
+    background-color: chartreuse;
+}
